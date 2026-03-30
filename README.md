@@ -1,5 +1,13 @@
 # AI-Driven Multi-Warehouse Management for WooCommerce
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.1+-777BB4?style=for-the-badge&logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/WordPress-6.4+-21759B?style=for-the-badge&logo=wordpress" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-8.5+-96588A?style=for-the-badge&logo=woocommerce" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/AI-DeepSeek-01B999?style=for-the-badge&logo=openai" alt="AI">
+</p>
+
 This repository is a **technical showcase** of a complex WordPress/WooCommerce plugin designed to digitize warehouse logistics. It demonstrates modern PHP development patterns, secure API integrations, and AI-assisted automation.
 
 ### 🚀 Key Technical Features:
